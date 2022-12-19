@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "34d27c74-2662-49ca-83a4-62def5b91db7": {
+      "ProjectGuid": "34d27c74-2662-49ca-83a4-62def5b91db7",
+      "DisplayName": "Retail Price Calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
